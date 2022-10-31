@@ -5,9 +5,9 @@ function App() {
   return (
     <div className="App">
       <header className="App-header"> 
-        <img src={logo} className="App-logo" alt="logo" />
+        <img src= 'https://th.bing.com/th/id/R.ef0a4f7e33f944227f3a467386720f42?rik=hRykddKhNdN9wg&pid=ImgRaw&r=0' width='300px' height='150px' className="App-logo"  alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          Aca se edita lo que se ve, en <code>src/App.js</code>. Puse el escudo de boca para probar otra img.
         </p>
         <a
           className="App-link"
